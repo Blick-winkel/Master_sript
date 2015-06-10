@@ -1,0 +1,367 @@
+1	обобщенный	обобщенный	A	A	Afpmsnf	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Новые	новый	A	A	Afpmpnf	2	опред	_	_
+2	книги	книга	N	N	Ncfpnn	5	предик	_	_
+3	//	//	-	-	-	2	аппоз	_	_
+4	Литературная	литературный	A	A	Afpfsnf	5	опред	_	_
+5	газета	газета	N	N	Ncfsnn	0	ROOT	_	_
+6	,	,	,	,	,	5	PUNC	_	_
+7	1950.01.11	1950.01.11	M	M	Mc---d	0	ROOT	_	_
+8	Новые	новый	A	A	Afpmpnf	9	опред	_	_
+9	книги	книга	N	N	Ncfpnn	0	ROOT	_	_
+10	«Советский	«советский	-	-	-	9	атриб	_	_
+11	писатель»	писатель»	N	N	Ncmsny	9	опред	_	_
+12	Васильев	васильев	N	N	Npmsny	11	аппоз	_	_
+13	Н	н	-	-	-	12	аппоз	_	_
+14	.	.	S	S	SENT	13	PUNC	_	_
+
+1	Америка	америка	N	N	Ncfsnn	0	ROOT	_	_
+2	с	с	S	S	Sp-g	1	атриб	_	_
+3	черного	черный	A	A	Afpmsgf	4	опред	_	_
+4	хода	ход	N	N	Ncmsgn	2	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	Очерки	очерк	N	N	Ncmpnn	0	ROOT	_	_
+2	и	и	C	C	C	1	сочин	_	_
+3	зарисовки	зарисовка	N	N	Ncfpan	2	соч-союзн	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	339	339	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	9	9	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	50	50	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Волошин	волошин	N	N	Npmsny	0	ROOT	_	_
+2	А	а	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Земля	земля	N	N	Ncfsnn	2	предик	_	_
+2	Кузнецкая	кузнецкий	A	A	Afpfsnf	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	323	323	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	9	9	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	50	50	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Гулиа	гулиа	-	-	-	0	ROOT	_	_
+2	Г	г	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Добрый	добрый	A	A	Afpmsnf	2	опред	_	_
+2	город	город	N	N	Ncmsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Повесть	повесть	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	147	147	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	4	4	M	M	Mc---d	1	нум-аппоз	_	_
+3	р	р	-	-	-	1	сочин	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Катаев	катаев	N	N	Npmsny	0	ROOT	_	_
+2	В	в	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	За	за	S	S	Sp-a	0	ROOT	_	_
+2	власть	власть	N	N	Ncfsan	1	предл	_	_
+3	Советов	совет	N	N	Ncmpgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	644	644	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	17	17	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	50	50	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Лагин	лагин	N	N	Npmsny	0	ROOT	_	_
+2	Л	л	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Патент	патент	N	N	Ncmsnn	4	предик	_	_
+2	«АВ»	«ав»	-	-	-	1	аппоз	_	_
+3	Фантастический	фантастический	A	A	Afpmsnf	4	опред	_	_
+4	роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	2-е	2-е	A	A	Afpnsnf	2	опред	_	_
+2	издание	издание	N	N	Ncnsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	240	240	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	10	10	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	50	50	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Латышские	латышский	A	A	Afpmpnf	2	опред	_	_
+2	рассказы	рассказ	N	N	Ncmpnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Сборник	сборник	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Составитель	составитель	N	N	Ncmsny	0	ROOT	_	_
+2	Л	л	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Блюменфельд	блюменфельд	N	N	Npmsny	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Предисловие	предисловие	N	N	Ncnsnn	0	ROOT	_	_
+2	И	и	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Муйжниек	муйжниек	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	520	520	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	15	15	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Мутуев	мутуй	N	N	Ncmpgn	0	ROOT	_	_
+2	X.	x.	S	S	SENT	1	PUNC	_	_
+
+1	Две	два	M	M	Mcf-n	2	количест	_	_
+2	повести	повесть	N	N	Ncfsgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	243	243	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	8	8	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Содержание	содержание	N	N	Ncnsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Астраханские	астраханский	A	A	Afpmpaf	2	опред	_	_
+2	дни	день	N	N	Ncmpan	5	обст	_	_
+3	--	--	-	-	-	5	предик	_	_
+4	Степной	степной	A	A	Afpmsnf	5	опред	_	_
+5	ветер	ветер	N	N	Ncmsnn	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	Саксе	сакс	N	N	Ncmsln	0	ROOT	_	_
+2	А	а	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	В	в	S	S	Sp-a	0	ROOT	_	_
+2	гору	гора	N	N	Ncfsan	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Перевод	перевод	N	N	Ncmsnn	0	ROOT	_	_
+2	с	с	S	S	Sp-g	1	2-компл	_	_
+3	латышского	латышский	A	A	Afpnsgf	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	552	552	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	3	предик	_	_
+2	16	16	M	M	Mc---d	3	количест	_	_
+3	р	р	-	-	-	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Сирге	сирге	N	N	Npmsny	0	ROOT	_	_
+2	Р	р	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Шаг	шаг	N	N	Ncmsnn	0	ROOT	_	_
+2	за	за	S	S	Sp-i	1	атриб	_	_
+3	шагом	шаг	N	N	Ncmsin	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Повести	повесть	N	N	Ncfpnn	0	ROOT	_	_
+2	и	и	C	C	C	1	сочин	_	_
+3	рассказы	рассказ	N	N	Ncmpnn	2	соч-союзн	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Перевод	перевод	N	N	Ncmsnn	0	ROOT	_	_
+2	с	с	S	S	Sp-g	1	2-компл	_	_
+3	эстонского	эстонский	A	A	Afpmsgf	4	опред	_	_
+4	Н	ньютон	N	N	Ncmsgn	2	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	Кооля	кооля	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	180	180	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	6	6	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	50	50	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Содержание	содержание	N	N	Ncnsnn	3	предик	_	_
+2	:	:	-	-	-	1	PUNC	_	_
+3	Лат	латинский	A	A	Afpnsnf	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	--	--	-	-	-	0	ROOT	_	_
+2	Мастер	мастер	N	N	Ncmsny	0	ROOT	_	_
+3	Маттиас	маттиас	N	N	Npmsny	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	--	--	-	-	-	0	ROOT	_	_
+2	Шаг	шаг	N	N	Ncmsnn	0	ROOT	_	_
+3	за	за	S	S	Sp-i	2	атриб	_	_
+4	шагом	шаг	N	N	Ncmsin	3	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	--	--	-	-	-	3	предик	_	_
+2	Вторая	второй	M	M	Mofsn	3	опред	_	_
+3	весна	весна	N	N	Ncfsnn	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	--	--	-	-	-	2	вспом	_	_
+2	Винтик	винтик	N	N	Ncmsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Сыдыкбеков	сыдыкбеков	N	N	Npmsny	0	ROOT	_	_
+2	Т	т	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Люди	человек	N	N	Ncmpny	0	ROOT	_	_
+2	наших	наш	P	P	P---pga	3	опред	_	_
+3	дней	день	N	N	Ncmpgn	1	атриб	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Авторизованный	авторизованный	A	A	Afpmsnf	2	опред	_	_
+2	перевод	перевод	N	N	Ncmsnn	0	ROOT	_	_
+3	с	с	S	S	Sp-g	2	2-компл	_	_
+4	киргизского	киргизский	A	A	Afpmsgf	3	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	363	363	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	12	12	M	M	Mc---d	1	нум-аппоз	_	_
+3	р	р	-	-	-	1	сочин	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Федин	федин	N	N	Npmsny	0	ROOT	_	_
+2	К	к	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Первые	первый	M	M	Mo-pn	2	опред	_	_
+2	радости	радость	N	N	Ncfpnn	3	предик	_	_
+3	Роман	роман	N	N	Ncmsnn	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	360	360	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	9	9	M	M	Mc---d	1	1-компл	_	_
+3	р	р	-	-	-	2	атриб	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Федоров	федоров	N	N	Npmsny	0	ROOT	_	_
+2	Е	е	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	У	у	S	S	Sp-g	3	обст	_	_
+2	горы	гора	N	N	Ncfsgn	1	предл	_	_
+3	Магнитной	магнитный	A	A	Afpfsgf	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Повесть	повесть	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	171	171	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	6	6	M	M	Mc---d	1	нум-аппоз	_	_
+3	р	р	-	-	-	1	сочин	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Фоменко	фоменко	N	N	Npmsny	0	ROOT	_	_
+2	В	в	-	-	-	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Человек	человек	N	N	Ncmsny	0	ROOT	_	_
+2	в	в	S	S	Sp-n	1	атриб	_	_
+3	степи	степь	N	N	Ncfsnnl	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Очерки	очерк	N	N	Ncmpnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	186	186	M	M	Mc---d	2	количест	_	_
+2	стр	страница	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Цена	цена	N	N	Ncfsnn	0	ROOT	_	_
+2	6	6	M	M	Mc---d	3	количест	_	_
+3	р	рубль	N	N	Ncmpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+

@@ -1,0 +1,495 @@
+1	обобщенный	обобщенный	A	A	Afpmsnf	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	[	[	-	-	-	9	предик	_	_
+2	С	с	S	S	Sp-i	9	вводн	_	_
+3	блокнотом	блокнот	N	N	Ncmsin	2	предл	_	_
+4	по	по	S	S	Sp-d	3	атриб	_	_
+5	университету	университет	N	N	Ncmsdn	4	предл	_	_
+6	]	]	-	-	-	5	PUNC	_	_
+7	//	//	-	-	-	5	аппоз	_	_
+8	Ленинградский	ленинградский	A	A	Afpmsnf	9	опред	_	_
+9	университет	университет	N	N	Ncmsnn	0	ROOT	_	_
+10	,	,	,	,	,	9	PUNC	_	_
+11	1936.12.21	1936.12.21	M	M	Mc---d	12	количест	_	_
+12	[	[	-	-	-	9	сочин	_	_
+13	С	с	S	S	Sp-i	18	атриб	_	_
+14	блокнотом	блокнот	N	N	Ncmsin	13	предл	_	_
+15	по	по	S	S	Sp-d	14	атриб	_	_
+16	университету	университет	N	N	Ncmsdn	15	предл	_	_
+17	]	]	-	-	-	16	PUNC	_	_
+18	Премирование	премирование	N	N	Ncnsnn	12	сочин	_	_
+19	альпинистов	альпинист	N	N	Ncmpgy	18	квазиагент	_	_
+20	За	за	S	S	Sp-l	18	атриб	_	_
+21	1936	1936	M	M	Mc---d	22	опред	_	_
+22	год	год	N	N	Ncmsan	20	предл	_	_
+23	секция	секция	N	N	Ncfsnn	26	предик	_	_
+24	альпинизма	альпинизм	N	N	Ncmsgn	23	квазиагент	_	_
+25	ЛГУ	лгу	N	N	Ncmsgn	24	квазиагент	_	_
+26	подготовила	подготовить	V	V	Vmis-sfa-p	9	сент-соч	_	_
+27	свыше	свыше	S	S	Sp-l	26	1-компл	_	_
+28	30	30	M	M	Mc---d	29	количест	_	_
+29	значкистов	значкист	N	N	Ncmpgn	27	предл	_	_
+30	«Альпинист	«альпинист	M	M	Mc---d	31	количест	_	_
+31	СССР»	ссср»	N	N	Ncmsgn	26	сравнит	_	_
+32	.	.	S	S	SENT	31	PUNC	_	_
+
+1	Секция	секция	N	N	Ncfsnn	6	предик	_	_
+2	ЛГУ	лгу	N	N	Ncmsgn	1	квазиагент	_	_
+3	по	по	S	S	Sp-d	1	атриб	_	_
+4	количеству	количество	N	N	Ncnsdn	3	предл	_	_
+5	значкистов	значкист	N	N	Ncmpgy	4	квазиагент	_	_
+6	заняла	занять	V	V	Vmis-sfa-p	0	ROOT	_	_
+7	первое	первый	M	M	Monsa	8	опред	_	_
+8	место	место	N	N	Ncnsan	6	1-компл	_	_
+9	в	в	S	S	Sp-l	8	атриб	_	_
+10	Ленинграде	ленинград	N	N	Ncmsln	9	предл	_	_
+11	и	и	C	C	C	6	сочин	_	_
+12	,	,	,	,	,	11	PUNC	_	_
+13	вместе	вместе	R	R	R	19	обст	_	_
+14	с	с	S	S	Sp-i	13	1-компл	_	_
+15	тем	то	P	P	P--nsin	14	предл	_	_
+16	,	,	,	,	,	15	PUNC	_	_
+17	по	по	S	S	Sp-d	19	вводн	_	_
+18	праву	право	N	N	Ncnsdn	17	предл	_	_
+19	считается	считаться	V	V	Vmip3s-m-e	11	соч-союзн	_	_
+20	одной	один	P	P	P--fsia	19	2-компл	_	_
+21	из	из	S	S	Sp-g	20	электив	_	_
+22	лучших	лучший	A	A	Afpmpgf	24	опред	_	_
+23	альпинистских	альпинистский	A	A	Afpmpgf	24	опред	_	_
+24	секций	секция	N	N	Ncfpgn	21	предл	_	_
+25	в	в	S	S	Sp-l	24	атриб	_	_
+26	городе	город	N	N	Ncmsln	25	предл	_	_
+27	.	.	S	S	SENT	26	PUNC	_	_
+
+1	Учитывая	учитывать	V	V	Vmgp---a-e	25	обст	_	_
+2	большое	большой	A	A	Afpnsnf	4	опред	_	_
+3	оборонное	оборонный	A	A	Afpnsnf	4	опред	_	_
+4	значение	значение	N	N	Ncnsnn	1	1-компл	_	_
+5	альпинизма	альпинизм	N	N	Ncmsgn	4	квазиагент	_	_
+6	и	и	C	C	C	1	сочин	_	_
+7	отмечая	отмечать	V	V	Vmgp---a-e	6	соч-союзн	_	_
+8	развитие	развитие	N	N	Ncnsan	7	1-компл	_	_
+9	альнинистской	альнинистский	A	A	Afpfsgf	10	опред	_	_
+10	секции	секция	N	N	Ncfsgn	8	1-компл	_	_
+11	ЛГУ	лгу	N	N	Ncmsgn	10	квазиагент	_	_
+12	в	в	S	S	Sp-a	8	атриб	_	_
+13	массовую	массовый	A	A	Afpfsaf	15	опред	_	_
+14	работоспособную	работоспособный	A	A	Afpfsaf	15	опред	_	_
+15	секцию	секция	N	N	Ncfsan	12	предл	_	_
+16	,	,	,	,	,	15	PUNC	_	_
+17	имеющую	иметь	V	V	Vmpp-sfafea	15	опред	_	_
+18	уже	уже	R	R	R	19	огранич	_	_
+19	серьезные	серьезный	A	A	Afpmpaf	21	опред	_	_
+20	технические	технический	A	A	Afpmpaf	21	опред	_	_
+21	достижения	достижение	N	N	Ncnpan	17	1-компл	_	_
+22	,	,	,	,	,	21	PUNC	_	_
+23	ректор	ректор	N	N	Ncmsny	25	предик	_	_
+24	ЛГУ	лгу	N	N	Ncmsgn	23	1-компл	_	_
+25	премировал	премировать	V	V	Vmis-sma-e	0	ROOT	_	_
+26	ряд	ряд	N	N	Ncmsnn	25	предик	_	_
+27	товарищей	товарищ	N	N	Ncmpgy	26	квазиагент	_	_
+28	за	за	S	S	Sp-a	27	атриб	_	_
+29	хорошие	хороший	A	A	Afpmpaf	31	опред	_	_
+30	технические	технический	A	A	Afpmpaf	31	опред	_	_
+31	достижения	достижение	N	N	Ncnpan	28	предл	_	_
+32	,	,	,	,	,	31	PUNC	_	_
+33	дисциплинированность	дисциплинированность	N	N	Ncfsnn	31	сочин	_	_
+34	и	и	C	C	C	33	сочин	_	_
+35	большую	большой	A	A	Afpfsaf	37	опред	_	_
+36	организационную	организационный	A	A	Afpfsaf	37	опред	_	_
+37	работу	работа	N	N	Ncfsan	34	соч-союзн	_	_
+38	по	по	S	S	Sp-d	37	1-компл	_	_
+39	развитию	развитие	N	N	Ncnsdn	38	предл	_	_
+40	и	и	C	C	C	39	сочин	_	_
+41	укреплению	укрепление	N	N	Ncnsdn	40	соч-союзн	_	_
+42	секции	секция	N	N	Ncfsgn	41	1-компл	_	_
+43	.	.	S	S	SENT	42	PUNC	_	_
+
+1	300	300	M	M	Mc---d	2	количест	_	_
+2	рублями	рубль	N	N	Ncmpin	0	ROOT	_	_
+3	премированы	премирована	N	N	Ncfsgn	2	квазиагент	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	тт	тт	-	-	-	3	аппоз	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	Висленев	висленев	N	N	Npmsny	0	ROOT	_	_
+2	О	о	I	I	I	1	аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	В	в	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	студент	студент	N	N	Ncmsny	3	предик	_	_
+3	3	3	M	M	Mc---d	4	количест	_	_
+4	к	к	S	S	Sp-d	1	1-компл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	физ	физ	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	Кокоулин	кокоулин	N	N	Npmsny	0	ROOT	_	_
+3	П	п	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	П	п	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	студент	студент	N	N	Ncmsny	4	предик	_	_
+2	4	4	M	M	Mc---d	1	нум-аппоз	_	_
+3	ГПГ	гпг	M	M	Momsnd	4	опред	_	_
+4	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	--	--	-	-	-	0	ROOT	_	_
+2	инструктор	инструктор	N	N	Ncmsny	0	ROOT	_	_
+3	альпинизма	альпинизм	N	N	Ncmsgn	2	1-компл	_	_
+4	и	и	C	C	C	2	сочин	_	_
+5	Зеликин	зеликин	N	N	Npmsny	4	соч-союзн	_	_
+6	Е	е	-	-	-	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	М	м	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	доцент	доцент	N	N	Ncmsny	0	ROOT	_	_
+2	истфака	истфак	N	N	Ncmsgn	1	атриб	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	200	200	M	M	Mc---d	2	количест	_	_
+2	рублями	рубль	N	N	Ncmpin	5	обст	_	_
+3	каждый	каждый	P	P	P--msna	5	предик	_	_
+4	,	,	,	,	,	3	PUNC	_	_
+5	премированы	премировать	V	V	Vmps-p-psp	0	ROOT	_	_
+6	:	:	-	-	-	5	PUNC	_	_
+7	Левидова	левидов	N	N	Npmsgy	5	предик	_	_
+8	Е	е	-	-	-	7	аппоз	_	_
+9	.	.	S	S	SENT	8	PUNC	_	_
+
+1	И	и	C	C	C	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	студ	студа	N	N	Ncfpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	физ	физ	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	Уфлянд	уфлянд	N	N	Ncfsnn	0	ROOT	_	_
+3	студ	студа	N	N	Ncfpgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	3	3	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	мат	мат	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	мех	мех	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	Пуминов	пуминов	N	N	Npmsny	0	ROOT	_	_
+3	А	а	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	К	к	S	S	Sp-d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	ГПГ	гпг	M	M	Momsnd	2	опред	_	_
+2	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	Федоров	федоров	N	N	Npmsny	0	ROOT	_	_
+3	Д	д	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	П	п	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	2	2	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	ГПГ	гпг	M	M	Momsnd	2	опред	_	_
+2	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	и	и	C	C	C	3	огранич	_	_
+3	Пискарев	пискарев	N	N	Npmsny	0	ROOT	_	_
+4	К	к	-	-	-	3	аппоз	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	П	п	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	4	4	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	физ	физ	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Товарищи	товарищ	N	N	Ncmpny	0	ROOT	_	_
+2	Скрыникова	скрыников	N	N	Npmsgy	1	аппоз	_	_
+3	?	?	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	Н.	н.	A	A	Afpmpaf	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	4	4	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	хим	химический	A	A	Afpmsif	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Селиванов	селиванов	N	N	Npmsny	0	ROOT	_	_
+3	Б	б	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Г	г	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	2	количест	_	_
+2	к	к	S	S	Sp-d	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	истор	истор	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	и	и	C	C	C	2	огранич	_	_
+2	Долгова	долгов	N	N	Npmsgy	4	предл	_	_
+3	2	2	M	M	Mc---d	2	аппоз	_	_
+4	к	к	S	S	Sp-d	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	физ	физ	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	фак	фак	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	--	--	-	-	-	2	предик	_	_
+2	премированы	премировать	V	V	Vmps-p-psp	0	ROOT	_	_
+3	каждый	каждый	P	P	P--msna	5	опред	_	_
+4	150	150	M	M	Mc---d	5	количест	_	_
+5	рублями	рубль	N	N	Ncmpin	2	2-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	Премирование	премирование	N	N	Ncnsnn	5	предик	_	_
+2	лучших	лучший	A	A	Afpmpgf	3	опред	_	_
+3	дипломников	дипломник	N	N	Ncmpgy	1	квазиагент	_	_
+4	Лучшие	лучший	A	A	Afpmpnf	5	опред	_	_
+5	студенты-дипломники	студенты-дипломники	N	N	Ncmpny	0	ROOT	_	_
+6	за	за	S	S	Sp-a	5	2-компл	_	_
+7	отличную	отличный	A	A	Afpfsaf	8	опред	_	_
+8	защиту	защита	N	N	Ncfsan	6	предл	_	_
+9	дипломных	дипломный	A	A	Afpmplf	10	опред	_	_
+10	работ	работа	N	N	Ncfpgn	8	1-компл	_	_
+11	,	,	,	,	,	10	PUNC	_	_
+12	за	за	S	S	Sp-a	8	2-компл	_	_
+13	отличные	отличный	A	A	Afpmpaf	14	опред	_	_
+14	показатели	показатель	N	N	Ncmpan	12	предл	_	_
+15	успеваемости	успеваемость	N	N	Ncfsgn	14	1-компл	_	_
+16	во	во	S	S	Sp-a	5	обст	_	_
+17	время	время	N	N	Ncnsan	16	предл	_	_
+18	учебы	учеба	N	N	Ncfsgn	17	1-компл	_	_
+19	и	и	C	C	C	18	сочин	_	_
+20	активное	активный	A	A	Afpnsaf	21	опред	_	_
+21	участие	участие	N	N	Ncnsan	19	соч-союзн	_	_
+22	в	в	S	S	Sp-l	21	1-компл	_	_
+23	общественной	общественный	A	A	Afpfslf	24	опред	_	_
+24	жизни	жизнь	N	N	Ncfsln	22	предл	_	_
+25	университета	университет	N	N	Ncmsgn	24	квазиагент	_	_
+26	премированы	премировать	V	V	Vmps-p-psp	5	разъяснит	_	_
+27	ректором	ректор	N	N	Ncmsiy	26	агент	_	_
+28	ЛГУ	лгу	N	N	Ncmsgn	27	1-компл	_	_
+29	на	на	S	S	Sp-l	26	обст	_	_
+30	250	250	M	M	Mc---d	31	количест	_	_
+31	рублей	рубль	N	N	Ncmpgn	29	предл	_	_
+32	каждый	каждый	P	P	P--msna	31	распред	_	_
+33	.	.	S	S	SENT	32	PUNC	_	_
+
+1	По	по	S	S	Sp-d	0	ROOT	_	_
+2	биологическому	биологический	A	A	Afpmsdf	3	опред	_	_
+3	ф-ту	ф-ту	N	N	Ncmsdn	1	предл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	Поганкин	поганкин	N	N	Npmsny	3	аппоз	_	_
+6	М	м	-	-	-	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Трошин	трошин	N	N	Npmsny	0	ROOT	_	_
+3	А	а	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Гордеева	гордеева	N	N	Npfsny	0	ROOT	_	_
+3	К	к	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	по	по	S	S	Sp-d	4	вводн	_	_
+3	ГПГ	гпг	-	-	-	2	предл	_	_
+4	ф-ту	ф-ту	N	N	Ncmsdn	1	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	Агапитов	агапитов	N	N	Npmsny	4	сочин	_	_
+7	В	в	-	-	-	6	аппоз	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	Г	г	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	3	огранич	_	_
+2	Чумаков	чумаков	N	N	Npmsny	3	предик	_	_
+3	А	а	C	C	C	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	А	а	I	I	I	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Лебедев	лебедев	N	N	Npmsny	0	ROOT	_	_
+3	В	в	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	И	и	C	C	C	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Пинхенсов	пинхенсов	N	N	Npmsny	0	ROOT	_	_
+3	Д	д	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	М	м	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	;	;	-	-	-	0	ROOT	_	_
+2	по	по	S	S	Sp-d	6	вводн	_	_
+3	химическому	химический	A	A	Afpmsdf	2	предл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	Кри-ницкий	кри-ницкий	A	A	Afpmsnf	3	сочин	_	_
+6	В	в	-	-	-	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	В	в	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	3	вводн	_	_
+2	Соловей	соловей	N	N	Ncmsny	3	предик	_	_
+3	И	и	C	C	C	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	,	,	,	,	,	3	вводн	_	_
+2	Чашников	чашников	N	N	Npmsny	3	предик	_	_
+3	И	и	C	C	C	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Г	г	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Первеев	первеев	N	N	Npmsny	0	ROOT	_	_
+3	Ф	ф	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Зельцер	зельцер	N	N	Npmsny	0	ROOT	_	_
+3	Я	я	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	А	а	C	C	C	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	;	;	-	-	-	5	вспом	_	_
+2	по	по	S	S	Sp-d	5	вводн	_	_
+3	математическому	математический	A	A	Afpnsdf	2	предл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	Смолицкий	смолицкий	N	N	Npmsny	0	ROOT	_	_
+6	X.	x.	S	S	SENT	5	PUNC	_	_
+
+1	Л	л	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Ермолаев	ермолаев	N	N	Npmsny	0	ROOT	_	_
+3	Н	н	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	М	м	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Гавурин	гавурин	N	N	Npmsny	0	ROOT	_	_
+3	М	м	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	К	к	S	S	Sp-d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	по	по	S	S	Sp-d	5	вводн	_	_
+3	физическому	физический	A	A	Afpnsdf	2	предл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	Салмин	салмин	N	N	Npmsny	1	предик	_	_
+6	Н	н	-	-	-	5	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	А	а	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Юдин	юдин	N	N	Npmsny	0	ROOT	_	_
+3	М	м	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	И	и	C	C	C	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	Сидоров	сидоров	N	N	Npmsny	0	ROOT	_	_
+3	А	а	-	-	-	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	И	и	C	C	C	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+

@@ -1,0 +1,2788 @@
+1	обобщенный	обобщенный	A	A	Afpmsnf	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	О	о	S	S	Sp-l	0	ROOT	_	_
+2	производственных	производственный	A	A	Afpmplf	3	опред	_	_
+3	планах	план	N	N	Ncmpln	1	предл	_	_
+4	колхозов	колхоз	N	N	Ncmpgn	3	1-компл	_	_
+5	на	на	S	S	Sp-l	3	атриб	_	_
+6	1934	1934	M	M	Mc---d	7	опред	_	_
+7	год	год	N	N	Ncmsan	5	предл	_	_
+8	//	//	-	-	-	9	аппоз	_	_
+9	Известия	известие	N	N	Ncnpnn	3	сочин	_	_
+10	,	,	,	,	,	9	PUNC	_	_
+11	1934.03.05	1934.03.05	M	M	Mofsgd	9	сочин	_	_
+12	О	о	S	S	Sp-l	11	атриб	_	_
+13	производственных	производственный	A	A	Afpmplf	14	опред	_	_
+14	планах	план	N	N	Ncmpln	12	предл	_	_
+15	колхозов	колхоз	N	N	Ncmpgn	14	1-компл	_	_
+16	на	на	S	S	Sp-l	14	атриб	_	_
+17	1934	1934	M	M	Mc---d	18	опред	_	_
+18	год	год	N	N	Ncmsan	16	предл	_	_
+19	Постановление	постановление	N	N	Ncnsnn	9	сочин	_	_
+20	Совета	совет	N	N	Ncmsgn	19	квазиагент	_	_
+21	Народных	народный	A	A	Afpmpgf	22	опред	_	_
+22	Комиссаров	комиссар	N	N	Ncmpgy	20	квазиагент	_	_
+23	Союза	союз	N	N	Ncmsgn	22	атриб	_	_
+24	ССР	сср	N	N	Ncfsgn	23	квазиагент	_	_
+25	и	и	C	C	C	23	сочин	_	_
+26	Центрального	центральный	A	A	Afpmsgf	27	опред	_	_
+27	Комитета	комитет	N	N	Ncmsgn	25	соч-союзн	_	_
+28	ВКП(б	вкп(б	N	N	Ncmsnn	27	примыкат	_	_
+29	)	)	-	-	-	28	PUNC	_	_
+30	Председатель	председатель	N	N	Ncmsny	19	сочин	_	_
+31	Совета	совет	N	N	Ncmsgn	30	1-компл	_	_
+32	Народных	народный	A	A	Afpmpgf	33	опред	_	_
+33	Комиссаров	комиссар	N	N	Ncmpgy	31	атриб	_	_
+34	Союза	союз	N	N	Ncmsgn	33	атриб	_	_
+35	ССР	сср	N	N	Ncfsgn	34	квазиагент	_	_
+36	В	в	-	-	-	30	сочин	_	_
+37	.	.	S	S	SENT	36	PUNC	_	_
+
+1	Молотов	молотов	N	N	Npmsny	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Секретарь	секретарь	N	N	Ncmsny	0	ROOT	_	_
+2	Центрального	центральный	A	A	Afpmsgf	3	опред	_	_
+3	Комитета	комитет	N	N	Ncmsgn	1	1-компл	_	_
+4	ВКП(б	вкп(б	-	-	-	3	примыкат	_	_
+5	)	)	-	-	-	4	PUNC	_	_
+6	И	и	-	-	-	4	аппоз	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	Сталин	сталин	N	N	Npmsny	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	марта	март	N	N	Ncmsgn	1	атриб	_	_
+3	1934	1934	M	M	Mc---d	4	опред	_	_
+4	г	год	N	N	Ncmsgn	2	атриб	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	Придавая	придавать	V	V	Vmgp---a-e	36	обст	_	_
+2	особо	особо	R	R	R	3	огранич	_	_
+3	важное	важный	A	A	Afpnsaf	4	опред	_	_
+4	значение	значение	N	N	Ncnsan	1	1-компл	_	_
+5	годовым	годовой	A	A	Afpmsif	7	опред	_	_
+6	производственным	производственный	A	A	Afpmpdf	7	опред	_	_
+7	планам	план	N	N	Ncmpdn	1	2-компл	_	_
+8	колхозов	колхоз	N	N	Ncmpgn	7	1-компл	_	_
+9	,	,	,	,	,	8	PUNC	_	_
+10	их	их	P	P	P-----a	12	квазиагент	_	_
+11	своевременному	своевременный	A	A	Afpmsdf	12	опред	_	_
+12	составлению	составление	N	N	Ncnsdn	1	1-компл	_	_
+13	до	до	S	S	Sp-g	12	атриб	_	_
+14	начала	начало	N	N	Ncnsgn	13	предл	_	_
+15	весеннего	весенний	A	A	Afpmsgf	16	опред	_	_
+16	сева	сев	N	N	Ncmsgn	14	квазиагент	_	_
+17	,	,	,	,	,	16	PUNC	_	_
+18	а	а	C	C	C	1	сочин	_	_
+19	также	также	Q	Q	Q	20	огранич	_	_
+20	отмечая	отмечать	V	V	Vmgp---a-e	18	соч-союзн	_	_
+21	необходимость	необходимость	N	N	Ncfsan	20	1-компл	_	_
+22	всемерного	всемерный	A	A	Afpnsgf	23	опред	_	_
+23	упрощения	упрощение	N	N	Ncnsgn	21	1-компл	_	_
+24	форм	форма	N	N	Ncfpgn	23	1-компл	_	_
+25	производственных	производственный	A	A	Afpmpgf	26	опред	_	_
+26	планов	план	N	N	Ncmpgn	24	квазиагент	_	_
+27	колхозов	колхоз	N	N	Ncmpgn	26	1-компл	_	_
+28	,	,	,	,	,	27	PUNC	_	_
+29	СНК	снк	N	N	Ncmsgn	26	атриб	_	_
+30	Союза	союз	N	N	Ncmsgn	29	квазиагент	_	_
+31	ССР	сср	N	N	Ncfsgn	30	квазиагент	_	_
+32	и	и	C	C	C	30	сочин	_	_
+33	ЦК	цк	N	N	Ncmsgn	32	соч-союзн	_	_
+34	ВКП(б	вкп(б	N	N	Ncmsnn	30	примыкат	_	_
+35	)	)	-	-	-	34	PUNC	_	_
+36	постановляют	постановлять	V	V	Vmip3p-a-e	0	ROOT	_	_
+37	:	:	-	-	-	36	PUNC	_	_
+38	1	1	M	M	Mc---d	0	ROOT	_	_
+39	.	.	S	S	SENT	38	PUNC	_	_
+
+1	Предложить	предложить	V	V	Vmn----a-p	0	ROOT	_	_
+2	областным	областной	A	A	Afpmpdf	9	опред	_	_
+3	(	(	-	-	-	2	PUNC	_	_
+4	краевым	краевой	A	A	Afpmpdf	2	примыкат	_	_
+5	)	)	-	-	-	4	PUNC	_	_
+6	и	и	C	C	C	4	сочин	_	_
+7	районным	районный	A	A	Afpmsif	6	соч-союзн	_	_
+8	партийным	партийный	A	A	Afpmpdf	9	опред	_	_
+9	организациям	организация	N	N	Ncfpdn	1	2-компл	_	_
+10	окончить	окончить	V	V	Vmn----a-p	1	1-компл	_	_
+11	работу	работа	N	N	Ncfsan	10	1-компл	_	_
+12	по	по	S	S	Sp-d	11	1-компл	_	_
+13	составлению	составление	N	N	Ncnsdn	12	предл	_	_
+14	правлениями	правлениями	A	A	Afpmpgf	15	опред	_	_
+15	колхозов	колхоз	N	N	Ncmpgn	13	1-компл	_	_
+16	годовых	годовой	A	A	Afpmpgf	18	опред	_	_
+17	производственных	производственный	A	A	Afpmpgf	18	опред	_	_
+18	планов	план	N	N	Ncmpgn	15	атриб	_	_
+19	,	,	,	,	,	18	PUNC	_	_
+20	их	их	P	P	P-----a	21	квазиагент	_	_
+21	обсуждение	обсуждение	N	N	Ncnsan	15	сочин	_	_
+22	и	и	C	C	C	21	сочин	_	_
+23	утверждение	утверждение	N	N	Ncnsan	22	соч-союзн	_	_
+24	общими	общий	A	A	Afpmpif	25	опред	_	_
+25	собраниями	собрание	N	N	Ncnpin	13	агент	_	_
+26	колхозников	колхозник	N	N	Ncmpgy	25	квазиагент	_	_
+27	в	в	S	S	Sp-a	13	1-компл	_	_
+28	следующие	следующий	A	A	Afpmpaf	29	опред	_	_
+29	сроки	срок	N	N	Ncmpan	27	предл	_	_
+30	:	:	-	-	-	29	PUNC	_	_
+31	а	а	C	C	C	10	сочин	_	_
+32	)	)	-	-	-	31	PUNC	_	_
+33	По	по	S	S	Sp-d	31	соч-союзн	_	_
+34	Северо-Кавказскому	северо-кавказскому	A	A	Afpmsdf	43	опред	_	_
+35	,	,	,	,	,	34	PUNC	_	_
+36	Азово-Черноморскому	азово-черноморскому	A	A	Afpmsdf	34	сочин	_	_
+37	,	,	,	,	,	36	PUNC	_	_
+38	Саратовскому	саратовский	A	A	Afpmsdf	36	сочин	_	_
+39	,	,	,	,	,	38	PUNC	_	_
+40	Сталинградскому	сталинградский	A	A	Afpmsdf	38	сочин	_	_
+41	,	,	,	,	,	40	PUNC	_	_
+42	Средне-Волжскому	средне-волжскому	A	A	Afpmsdf	43	опред	_	_
+43	краям	край	N	N	Ncmpdn	33	предл	_	_
+44	,	,	,	,	,	43	PUNC	_	_
+45	ЦЧО	цчо	N	N	Ncmpdn	43	сочин	_	_
+46	,	,	,	,	,	45	PUNC	_	_
+47	Украинской	украинский	A	A	Afpfsgf	45	разъяснит	_	_
+48	,	,	,	,	,	47	PUNC	_	_
+49	Крымской	крымский	A	A	Afpfsgf	47	сочин	_	_
+50	,	,	,	,	,	49	PUNC	_	_
+51	Закавказской	закавказский	A	A	Afpfsgf	49	сочин	_	_
+52	,	,	,	,	,	51	PUNC	_	_
+53	Узбекской	узбекский	A	A	Afpfsgf	51	сочин	_	_
+54	,	,	,	,	,	53	PUNC	_	_
+55	Туркменской	туркменский	A	A	Afpfsgf	53	сочин	_	_
+56	,	,	,	,	,	55	PUNC	_	_
+57	Таджикской	таджикский	A	A	Afpfsgf	55	сочин	_	_
+58	,	,	,	,	,	57	PUNC	_	_
+59	Кара-Калпакской	кара-калпакской	A	A	Afpfsgf	57	сочин	_	_
+60	и	и	C	C	C	59	сочин	_	_
+61	Киргизской	киргизский	A	A	Afpfsgf	60	соч-союзн	_	_
+62	республикам	республика	N	N	Ncfpdn	45	сочин	_	_
+63	--	--	-	-	-	0	ROOT	_	_
+64	к	к	S	S	Sp-l	0	ROOT	_	_
+65	20	20	M	M	Mc---d	64	предл	_	_
+66	марта	март	N	N	Ncmsgn	65	атриб	_	_
+67	1934	1934	M	M	Mc---d	68	опред	_	_
+68	года	год	N	N	Ncmsgn	66	атриб	_	_
+69	.	.	S	S	SENT	68	PUNC	_	_
+
+1	б	б	-	-	-	0	ROOT	_	_
+2	)	)	-	-	-	1	PUNC	_	_
+3	По	по	S	S	Sp-d	1	разъяснит	_	_
+4	всем	весь	P	P	P---pda	6	опред	_	_
+5	остальным	остальной	P	P	P---pda	6	опред	_	_
+6	краям	край	N	N	Ncmpdn	3	предл	_	_
+7	,	,	,	,	,	6	PUNC	_	_
+8	областям	область	N	N	Ncfpdn	3	сочин	_	_
+9	и	и	C	C	C	8	сочин	_	_
+10	республикам	республика	N	N	Ncfpdn	9	соч-союзн	_	_
+11	--	--	-	-	-	10	аппоз	_	_
+12	к	к	S	S	Sp-l	3	предик	_	_
+13	1	1	M	M	Mc---d	12	предл	_	_
+14	апреля	апрель	N	N	Ncmsgn	13	атриб	_	_
+15	1934	1934	M	M	Mc---d	16	опред	_	_
+16	года	год	N	N	Ncmsgn	14	атриб	_	_
+17	.	.	S	S	SENT	16	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Утвердить	утвердить	V	V	Vmn----a-p	11	1-компл	_	_
+2	представленную	представить	V	V	Vmps-sfpfpa	6	опред	_	_
+3	Наркомземом	наркомзем	N	N	Ncmsiy	2	агент	_	_
+4	СССР	ссср	N	N	Ncmsgn	3	аппоз	_	_
+5	типовую	типовой	A	A	Afpfsaf	6	опред	_	_
+6	форму	форма	N	N	Ncfsan	1	1-компл	_	_
+7	производственных	производственный	A	A	Afpmpgf	8	опред	_	_
+8	планов	план	N	N	Ncmpgn	6	квазиагент	_	_
+9	колхозов	колхоз	N	N	Ncmpgn	8	1-компл	_	_
+10	(	(	-	-	-	9	PUNC	_	_
+11	см	смотреть	V	V	Vmm--s-a-e	0	ROOT	_	_
+12	.	.	S	S	SENT	11	PUNC	_	_
+
+1	приложение	приложение	N	N	Ncnsnn	0	ROOT	_	_
+2	)	)	-	-	-	1	PUNC	_	_
+3	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Приложение	приложение	N	N	Ncnsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Типовая	типовой	A	A	Afpfsnf	2	опред	_	_
+2	форма	форма	N	N	Ncfsnn	0	ROOT	_	_
+3	производственного	производственный	A	A	Afpmsgf	4	опред	_	_
+4	плана	план	N	N	Ncmsgn	2	квазиагент	_	_
+5	колхоза	колхоз	N	N	Ncmsgn	4	1-компл	_	_
+6	,	,	,	,	,	5	PUNC	_	_
+7	принятая	принять	V	V	Vmps-sfpfpn	2	опред	_	_
+8	Наркомземом	наркомзем	N	N	Ncmsin	7	агент	_	_
+9	СССР	ссср	N	N	Ncmsgn	8	квазиагент	_	_
+10	.	.	S	S	SENT	9	PUNC	_	_
+
+1	I.	i.	S	S	SENT	0	ROOT	_	_
+
+1	Сев	сесть	V	V	Vmgs---a-p	0	ROOT	_	_
+2	яровых	яровый	A	A	Afpmpgf	3	опред	_	_
+3	культур	культура	N	N	Ncfpgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	1934	1934	M	M	Mc---d	4	опред	_	_
+4	г	год	N	N	Ncmsnnl	2	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	яровых	яровый	A	A	Afpmpgf	2	опред	_	_
+2	культур	культура	N	N	Ncfpgn	0	ROOT	_	_
+3	всего	всего	Q	Q	Q	2	сравнит	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	7	предик	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	в	в	S	S	Sp-l	7	огранич	_	_
+4	том	тот	P	P	P--nsla	5	опред	_	_
+5	числе	число	N	N	Ncnsln	3	предл	_	_
+6	:	:	-	-	-	5	PUNC	_	_
+7	пшеницы	пшеница	N	N	Ncfsgn	0	ROOT	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	овса	овес	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	льна	лен	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	картофеля	картофель	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	овощей	овощ	N	N	Ncmpgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	свеклы	свекла	N	N	Ncfsgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	хлопка	хлопок	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	и	и	C	C	C	3	огранич	_	_
+3	т	то	P	P	P--nsdn	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	включить	включить	V	V	Vmn----a-p	0	ROOT	_	_
+3	все	весь	P	P	P---pna	5	опред	_	_
+4	яровые	яровый	A	A	Afpmpnf	5	опред	_	_
+5	культуры	культура	N	N	Ncfpnn	2	1-компл	_	_
+6	)	)	-	-	-	5	PUNC	_	_
+7	.	.	S	S	SENT	5	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посев	посев	N	N	Ncmsan	2	1-компл	_	_
+2	провести	провести	V	V	Vmn----a-p	0	ROOT	_	_
+3	:	:	-	-	-	2	PUNC	_	_
+4	пшеницы	пшеница	N	N	Ncfsgn	2	1-компл	_	_
+5	в	в	S	S	Sp-l	2	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	овса	овес	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	льна	лен	N	N	Ncmsgn	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	картофеля	картофель	N	N	Ncmsgn	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	овощей	овощ	N	N	Ncmpgn	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	свеклы	свекла	N	N	Ncfsgn	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	хлопка	хлопок	N	N	Ncmsgn	1	предл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	«	«	-	-	-	0	ROOT	_	_
+2	и	и	C	C	C	3	огранич	_	_
+3	т	то	P	P	P--nsdn	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Приготовить	приготовить	V	V	Vmn----a-p	0	ROOT	_	_
+2	семена	семя	N	N	Ncnpan	1	1-компл	_	_
+3	для	для	S	S	Sp-g	2	атриб	_	_
+4	посева	посев	N	N	Ncmsgn	3	предл	_	_
+5	яровых	яровый	A	A	Afpmpgf	2	опред	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	в	в	S	S	Sp-l	0	ROOT	_	_
+3	центнерах	центнер	N	N	Ncmpln	2	предл	_	_
+4	по	по	S	S	Sp-d	3	атриб	_	_
+5	культурам	культура	N	N	Ncfpdn	4	предл	_	_
+6	)	)	-	-	-	5	PUNC	_	_
+7	.	.	S	S	SENT	5	PUNC	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Очистить	очистить	V	V	Vmn----a-p	0	ROOT	_	_
+2	семян	семя	N	N	Ncnpgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	центнеров	центнер	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	0	ROOT	_	_
+2	сортовыми	сортовой	A	A	Afpmpif	3	опред	_	_
+3	семенами	семя	N	N	Ncnpin	1	1-компл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	пшеницы	пшеница	N	N	Ncfsgn	3	разъяснит	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	овса	овес	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	льна	лен	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	и	и	C	C	C	3	огранич	_	_
+3	т	то	P	P	P--nsdn	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	перечислить	перечислить	V	V	Vmn----a-p	9	вводн	_	_
+3	все	весь	P	P	P---paa	5	опред	_	_
+4	зерновые	зерновой	A	A	Afpmpaf	5	опред	_	_
+5	культуры	культура	N	N	Ncfpan	2	1-компл	_	_
+6	,	,	,	,	,	5	PUNC	_	_
+7	посев	посев	N	N	Ncmsan	9	предик	_	_
+8	которых	который	P	P	P---pga	7	квазиагент	_	_
+9	будет	быть	V	V	Vmif3s-a-e	0	ROOT	_	_
+10	произведен	произвести	V	V	Vmps-smpsp	9	пасс-анал	_	_
+11	сортовыми	сортовой	A	A	Afpmpif	12	опред	_	_
+12	семенами	семя	N	N	Ncnpin	10	агент	_	_
+13	)	)	-	-	-	12	PUNC	_	_
+14	.	.	S	S	SENT	12	PUNC	_	_
+
+1	6	6	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Провести	провести	V	V	Vmn----a-p	0	ROOT	_	_
+2	протравливание	протравливание	N	N	Ncnsan	1	1-компл	_	_
+3	семян	семя	N	N	Ncnpgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	центнеров	центнер	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	II	ii	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посев	посев	N	N	Ncmsan	4	предик	_	_
+2	озимых	озить	V	V	Vmpp-p-pfeg	1	опред	_	_
+3	и	и	C	C	C	4	огранич	_	_
+4	подъем	подъем	N	N	Ncmsnn	0	ROOT	_	_
+5	зяби	зяба	N	N	Ncfsgn	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	3	1-компл	_	_
+2	всего	всего	Q	Q	Q	3	огранич	_	_
+3	озимых	озить	V	V	Vmpp-p-pfeg	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	6	предик	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	из	из	S	S	Sp-g	6	атриб	_	_
+4	них	они	P	P	P-3-pgn	3	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	пшеницы	пшеница	N	N	Ncfsgn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	ржи	рожь	N	N	Ncfsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	2	2	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	0	ROOT	_	_
+2	сортовыми	сортовой	A	A	Afpmpif	3	опред	_	_
+3	семенами	семя	N	N	Ncnpin	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	6	предик	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	из	из	S	S	Sp-g	6	атриб	_	_
+4	них	они	P	P	P-3-pgn	3	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	пшеницы	пшеница	N	N	Ncfsgn	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	N	N	Ncmpgn	0	ROOT	_	_
+2	ржи	рожь	N	N	Ncfsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	3	3	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	2	2-компл	_	_
+2	озимых	озить	V	V	Vmpp-p-pfeg	0	ROOT	_	_
+3	:	:	-	-	-	2	PUNC	_	_
+4	а	а	C	C	C	2	примыкат	_	_
+5	)	)	-	-	-	4	PUNC	_	_
+6	по	по	S	S	Sp-d	0	ROOT	_	_
+7	чистым	чистый	A	A	Afpmpdf	8	опред	_	_
+8	парам	пара	N	N	Ncfpdn	6	предл	_	_
+9	.	.	S	S	SENT	8	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	б	б	-	-	-	1	аппоз	_	_
+3	)	)	-	-	-	2	PUNC	_	_
+4	по	по	S	S	Sp-d	1	атриб	_	_
+5	занятым	занять	V	V	Vmps-p-pfpd	6	опред	_	_
+6	парам	пара	N	N	Ncfpdn	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	4	4	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Поднять	поднять	V	V	Vmn----a-p	0	ROOT	_	_
+2	пары	пара	N	N	Ncfpan	1	1-компл	_	_
+3	до	до	S	S	Sp-g	1	обст	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	(	(	-	-	-	1	PUNC	_	_
+3	указать	указать	V	V	Vmn----a-p	1	разъяснит	_	_
+4	срок	срок	N	N	Ncmsan	3	1-компл	_	_
+5	окончания	окончание	N	N	Ncnsgn	4	квазиагент	_	_
+6	подъема	подъем	N	N	Ncmsgn	5	1-компл	_	_
+7	паров	пары	N	N	Ncmpgn	6	1-компл	_	_
+8	)	)	-	-	-	7	PUNC	_	_
+9	.	.	S	S	SENT	7	PUNC	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Окончить	окончить	V	V	Vmn----a-p	0	ROOT	_	_
+2	посев	посев	N	N	Ncmsan	1	1-компл	_	_
+3	озимых	озить	V	V	Vmpp-p-pfeg	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	6	6	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Вспахать	вспахать	V	V	Vmn----a-p	0	ROOT	_	_
+2	под	под	S	S	Sp-a	1	2-компл	_	_
+3	зябь	зябь	N	N	Ncfsan	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	III	iii	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Уборка	уборка	N	N	Ncfsnn	0	ROOT	_	_
+2	и	и	C	C	C	1	сочин	_	_
+3	молотьба	молотьба	N	N	Ncfsnn	2	соч-союзн	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Всего	всего	Q	Q	Q	0	ROOT	_	_
+2	должно	должен	A	A	Afpnsns	0	ROOT	_	_
+3	быть	быть	V	V	Vmn----a-e	2	1-компл	_	_
+4	убрано	убрать	V	V	Vmps-snpsp	3	пасс-анал	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	2	предик	_	_
+2	в	в	S	S	Sp-l	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	из	из	S	S	Sp-g	5	атриб	_	_
+4	них	они	P	P	P-3-pgn	3	предл	_	_
+5	уборку	уборка	N	N	Ncfsan	6	1-компл	_	_
+6	провести	провести	V	V	Vmn----a-p	1	предик	_	_
+7	:	:	-	-	-	6	PUNC	_	_
+8	озимых	озить	V	V	Vmpp-p-pfeg	1	опред	_	_
+9	в	в	S	S	Sp-l	8	обст	_	_
+10	.	.	S	S	SENT	9	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	яровых	яровый	A	A	Afpmpaf	0	ROOT	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	картофеля	картофель	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	льна	лен	N	N	Ncmsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	3	предл	_	_
+2	и	и	C	C	C	3	огранич	_	_
+3	т	то	P	P	P--nsdn	0	ROOT	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Обмолот	обмолот	N	N	Ncmsnn	0	ROOT	_	_
+2	закончить	закончить	V	V	Vmn----a-p	1	1-компл	_	_
+3	в	в	S	S	Sp-a	2	обст	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	дней	день	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Заскирдовать	заскирдовать	V	V	Vmn----a-p	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	IV	iv	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Работа	работа	N	N	Ncfsnn	0	ROOT	_	_
+2	силами	сила	N	N	Ncfpin	1	сочин	_	_
+3	МТС	мтс	N	N	Ncmsgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Вспахать	вспахать	V	V	Vmn----a-e	0	ROOT	_	_
+2	силами	сила	N	N	Ncfpin	1	обст	_	_
+3	МТС	мтс	N	N	Ncmsgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Посеять	посеять	V	V	Vmn----a-p	0	ROOT	_	_
+2	силами	сила	N	N	Ncfpin	1	обст	_	_
+3	МТС	мтс	N	N	Ncmsgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Убрать	убрать	V	V	Vmn----a-p	0	ROOT	_	_
+2	уборочными	уборочный	A	A	Afpmpif	3	опред	_	_
+3	машинами	машина	N	N	Ncfpin	1	2-компл	_	_
+4	МТС	мтс	N	N	Ncmsgn	3	атриб	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Убрать	убрать	V	V	Vmn----a-p	0	ROOT	_	_
+2	комбайнами	комбайн	N	N	Ncmpin	1	1-компл	_	_
+3	МТС	мтс	N	N	Ncmsgn	2	квазиагент	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Обмолотить	обмолотить	V	V	Vmn----a-p	0	ROOT	_	_
+2	молотилками	молотилками	A	A	Afpmsaf	3	опред	_	_
+3	МТС	мтс	N	N	Ncmsan	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	V.	v.	S	S	SENT	0	ROOT	_	_
+
+1	Ремонт	ремонт	N	N	Ncmsnn	0	ROOT	_	_
+2	и	и	C	C	C	1	сочин	_	_
+3	приобретение	приобретение	N	N	Ncnsnn	2	соч-союзн	_	_
+4	сельскохозяйственных	сельскохозяйственный	A	A	Afpmpgf	5	опред	_	_
+5	машин	машина	N	N	Ncfpgn	3	1-компл	_	_
+6	и	и	C	C	C	5	сочин	_	_
+7	орудий	орудие	N	N	Ncnpgn	6	соч-союзн	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Отремонтировать	отремонтировать	V	V	Vmn----a-p	0	ROOT	_	_
+2	плугов	плуг	N	N	Ncmpgn	1	1-компл	_	_
+3	,	,	,	,	,	2	PUNC	_	_
+4	сеялок	сеялка	N	N	Ncfpgn	2	сочин	_	_
+5	,	,	,	,	,	4	PUNC	_	_
+6	уборочных	уборочный	A	A	Afpmpgf	7	опред	_	_
+7	машин	машина	N	N	Ncfpgn	4	сочин	_	_
+8	и	и	C	C	C	7	сочин	_	_
+9	т	то	P	P	P--nsdn	8	соч-союзн	_	_
+10	.	.	S	S	SENT	9	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	указать	указать	V	V	Vmn----a-p	0	ROOT	_	_
+3	количество	количество	N	N	Ncnsan	2	1-компл	_	_
+4	)	)	-	-	-	3	PUNC	_	_
+5	к	к	S	S	Sp-d	2	обст	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	указать	указать	V	V	Vmn----a-p	0	ROOT	_	_
+3	срок	срок	N	N	Ncmsan	2	1-компл	_	_
+4	)	)	-	-	-	3	PUNC	_	_
+5	.	.	S	S	SENT	3	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Купить	купить	V	V	Vmn----a-p	0	ROOT	_	_
+2	плугов	плуг	N	N	Ncmpgn	1	1-компл	_	_
+3	и	и	C	C	C	1	сочин	_	_
+4	другого	другой	P	P	P--msga	5	опред	_	_
+5	инвентаря	инвентарь	N	N	Ncmsgn	3	соч-союзн	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Изготовить	изготовить	V	V	Vmn----a-p	0	ROOT	_	_
+2	в	в	S	S	Sp-l	1	обст	_	_
+3	своем	свой	P	P	P--nsla	4	опред	_	_
+4	хозяйстве	хозяйство	N	N	Ncnsln	2	предл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	VI	vi	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Организация	организация	N	N	Ncfsnn	0	ROOT	_	_
+2	колхозников	колхозник	N	N	Ncmpgy	1	1-компл	_	_
+3	в	в	S	S	Sp-l	1	атриб	_	_
+4	бригады	бригада	N	N	Ncfsgn	3	предл	_	_
+5	и	и	C	C	C	1	сочин	_	_
+6	закрепление	закрепление	N	N	Ncnsnn	5	соч-союзн	_	_
+7	тягловой	тягловый	A	A	Afpfsgf	8	опред	_	_
+8	силы	сила	N	N	Ncfsgn	6	1-компл	_	_
+9	за	за	S	S	Sp-i	6	атриб	_	_
+10	бригадами	бригада	N	N	Ncfpin	9	предл	_	_
+11	1	1	M	M	Mc---d	10	нум-аппоз	_	_
+12	.	.	S	S	SENT	11	PUNC	_	_
+
+1	Составить	составить	V	V	Vmn----a-p	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	бригад	бригада	N	N	Ncfpgn	0	ROOT	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	из	из	S	S	Sp-g	0	ROOT	_	_
+4	них	они	P	P	P-3-pgn	3	предл	_	_
+5	на	на	S	S	Sp-a	3	соотнос	_	_
+6	полеводство	полеводство	N	N	Ncnsan	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	,	,	,	,	,	2	опред	_	_
+2	животноводство	животноводство	N	N	Ncnsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	,	,	,	,	,	2	опред	_	_
+2	огородничество	огородничество	N	N	Ncnsnn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	и	и	C	C	C	2	огранич	_	_
+2	т	то	P	P	P--nsdn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Установить	установить	V	V	Vmn----a-p	0	ROOT	_	_
+2	следующее	следующий	A	A	Afpnsaf	3	опред	_	_
+3	количество	количество	N	N	Ncnsan	1	1-компл	_	_
+4	колхозников	колхозник	N	N	Ncmpgy	3	квазиагент	_	_
+5	в	в	S	S	Sp-l	4	атриб	_	_
+6	бригадах	бригада	N	N	Ncfpln	5	предл	_	_
+7	(	(	-	-	-	6	PUNC	_	_
+8	мужчин	мужчина	N	N	Ncmpgy	6	квазиагент	_	_
+9	,	,	,	,	,	8	PUNC	_	_
+10	женщин	женщина	N	N	Ncfpgy	8	сочин	_	_
+11	и	и	C	C	C	10	сочин	_	_
+12	подростков	подросток	N	N	Ncmpgy	11	соч-союзн	_	_
+13	)	)	-	-	-	12	PUNC	_	_
+14	с	с	S	S	Sp-i	6	атриб	_	_
+15	приложением	приложение	N	N	Ncnsin	14	предл	_	_
+16	поименного	поименный	A	A	Afpmsgf	17	опред	_	_
+17	списка	список	N	N	Ncmsgn	15	1-компл	_	_
+18	каждой	каждый	P	P	P--fsga	19	опред	_	_
+19	бригады	бригада	N	N	Ncfsgn	17	квазиагент	_	_
+20	.	.	S	S	SENT	19	PUNC	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	первой	первый	M	M	Mofsl	3	опред	_	_
+3	бригаде	бригада	N	N	Ncfsln	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	мужчин	мужчина	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	женщин	женщина	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	Во	во	S	S	Sp-l	0	ROOT	_	_
+2	второй	второй	M	M	Mofsl	3	опред	_	_
+3	бригаде	бригада	N	N	Ncfsln	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	мужчин	мужчина	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	женщин	женщина	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Назначить	назначить	V	V	Vmn----a-p	0	ROOT	_	_
+2	колхозников	колхозник	N	N	Ncmpgy	1	1-компл	_	_
+3	по	по	S	S	Sp-d	2	атриб	_	_
+4	отраслям	отрасль	N	N	Ncfpdn	3	предл	_	_
+5	хозяйства	хозяйство	N	N	Ncnsgn	4	квазиагент	_	_
+6	(	(	-	-	-	5	PUNC	_	_
+7	полеводство	полеводство	N	N	Ncnsnn	2	сочин	_	_
+8	,	,	,	,	,	7	PUNC	_	_
+9	животноводство	животноводство	N	N	Ncnsnn	7	сочин	_	_
+10	,	,	,	,	,	9	PUNC	_	_
+11	строительство	строительство	N	N	Ncnsnn	9	сочин	_	_
+12	,	,	,	,	,	11	PUNC	_	_
+13	административно-управленческий	административно-управленческий	A	A	Afpmsnf	14	опред	_	_
+14	аппарат	аппарат	N	N	Ncmsnn	11	примыкат	_	_
+15	)	)	-	-	-	14	PUNC	_	_
+16	на	на	S	S	Sp-a	11	атриб	_	_
+17	периоды	период	N	N	Ncmpan	16	предл	_	_
+18	:	:	-	-	-	17	PUNC	_	_
+19	весенних	весенний	A	A	Afpmpgf	20	опред	_	_
+20	работ	работа	N	N	Ncfpgn	17	квазиагент	_	_
+21	.	.	S	S	SENT	20	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	челов	чел	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	6	предик	_	_
+2	в	в	S	S	Sp-l	6	огранич	_	_
+3	том	тот	P	P	P--nsla	4	опред	_	_
+4	числе	число	N	N	Ncnsln	2	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	муж	муж	N	N	Ncmsny	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	жен	жена	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	прополочных	прополочный	A	A	Afpmpgf	2	опред	_	_
+2	работ	работа	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	челов	чел	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	6	предик	_	_
+2	в	в	S	S	Sp-l	6	огранич	_	_
+3	том	тот	P	P	P--nsla	4	опред	_	_
+4	числе	число	N	N	Ncnsln	2	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	муж	муж	N	N	Ncmsny	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	жен	жена	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	уборочных	уборочный	A	A	Afpmpgf	2	опред	_	_
+2	работ	работа	N	N	Ncfpgn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	челов	чел	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	6	предик	_	_
+2	в	в	S	S	Sp-l	6	огранич	_	_
+3	том	тот	P	P	P--nsla	4	опред	_	_
+4	числе	число	N	N	Ncnsln	2	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	муж	муж	N	N	Ncmsny	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	жен	жена	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	зимой	зима	N	N	Ncfsin	0	ROOT	_	_
+2	работ	работа	N	N	Ncfpgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	челов	чел	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	6	предик	_	_
+2	в	в	S	S	Sp-l	6	огранич	_	_
+3	том	тот	P	P	P--nsla	4	опред	_	_
+4	числе	число	N	N	Ncnsln	2	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	муж	муж	N	N	Ncmsny	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	жен	жена	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	подр	подрый	A	A	Afpmsns	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Выделить	выделить	V	V	Vmn----a-p	0	ROOT	_	_
+2	колхозников	колхозник	N	N	Ncmpgy	1	1-компл	_	_
+3	в	в	S	S	Sp-a	1	2-компл	_	_
+4	отход	отход	N	N	Ncmsan	3	предл	_	_
+5	по	по	S	S	Sp-d	4	1-компл	_	_
+6	сезонам	сезон	N	N	Ncmpdn	5	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	летом	лето	N	N	Ncnsin	0	ROOT	_	_
+3	,	,	,	,	,	2	PUNC	_	_
+4	зимой	зима	N	N	Ncfsin	2	примыкат	_	_
+5	)	)	-	-	-	4	PUNC	_	_
+6	.	.	S	S	SENT	4	PUNC	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Послать	послать	V	V	Vmn----a-p	0	ROOT	_	_
+2	на	на	S	S	Sp-a	1	2-компл	_	_
+3	курсы	курсы	N	N	Ncmpan	2	предл	_	_
+4	подготовки	подготовка	N	N	Ncfsgn	3	1-компл	_	_
+5	трактористов	тракторист	N	N	Ncmpgy	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	счетоводов	счетовод	N	N	Ncmpgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	бригадиров	бригадир	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	6	6	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Установить	установить	V	V	Vmn----a-p	0	ROOT	_	_
+2	количество	количество	N	N	Ncnsan	1	1-компл	_	_
+3	трудодней	трудодня	N	N	Ncfsin	2	квазиагент	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	целом	целое	N	N	Ncnsln	4	предл	_	_
+6	на	на	S	S	Sp-a	0	ROOT	_	_
+7	выполнение	выполнение	N	N	Ncnsan	6	предл	_	_
+8	всего	весь	P	P	P--msga	9	опред	_	_
+9	объема	объем	N	N	Ncmsgn	7	1-компл	_	_
+10	работ	работа	N	N	Ncfpgn	9	квазиагент	_	_
+11	в	в	S	S	Sp-l	10	атриб	_	_
+12	колхозах	колхоз	N	N	Ncmpln	11	предл	_	_
+13	.	.	S	S	SENT	12	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	В	в	S	S	Sp-l	0	ROOT	_	_
+2	том	тот	P	P	P--nsla	3	опред	_	_
+3	числе	число	N	N	Ncnsln	1	предл	_	_
+4	по	по	S	S	Sp-d	1	эллипт	_	_
+5	полеводству	полеводство	N	N	Ncnsdn	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	животноводству	животноводство	N	N	Ncnsdn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	и	и	C	C	C	2	огранич	_	_
+2	т	то	P	P	P--nsdn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	7	7	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Распределить	распределить	V	V	Vmn----a-p	0	ROOT	_	_
+2	тягловую	тягловой	A	A	Afpfsaf	3	опред	_	_
+3	силу	сила	N	N	Ncfsan	1	1-компл	_	_
+4	колхоза	колхоз	N	N	Ncmsgn	3	квазиагент	_	_
+5	(	(	-	-	-	4	PUNC	_	_
+6	лошади	лошадь	N	N	Ncfpny	4	примыкат	_	_
+7	,	,	,	,	,	6	PUNC	_	_
+8	волы	вол	N	N	Ncmpny	4	примыкат	_	_
+9	)	)	-	-	-	8	PUNC	_	_
+10	по	по	S	S	Sp-d	1	обст	_	_
+11	бригадам	бригад	N	N	Ncmpdn	10	предл	_	_
+12	:	:	-	-	-	11	PUNC	_	_
+13	Первой	первый	M	M	Mofsg	14	опред	_	_
+14	бригаде	бригада	N	N	Ncfsln	1	1-компл	_	_
+15	.	.	S	S	SENT	14	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	лошадей	лошадь	N	N	Ncfpay	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	волов	вол	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Второй	второй	M	M	Momsn	2	опред	_	_
+2	бригаде	бригада	N	N	Ncfsln	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	лошадей	лошадь	N	N	Ncfpay	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	волов	вол	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	VII	vii	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Мероприятия	мероприятие	N	N	Ncnpnn	0	ROOT	_	_
+2	по	по	S	S	Sp-d	1	1-компл	_	_
+3	повышению	повышение	N	N	Ncnsdn	2	предл	_	_
+4	урожайности	урожайность	N	N	Ncfsgn	3	1-компл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Получить	получить	V	V	Vmn----a-p	0	ROOT	_	_
+2	урожай	урожай	N	N	Ncmsan	1	1-компл	_	_
+3	с	с	S	S	Sp-g	1	2-компл	_	_
+4	га	га	N	N	Ncmsgn	3	предл	_	_
+5	по	по	S	S	Sp-d	1	обст	_	_
+6	каждому	каждый	P	P	P--msda	8	опред	_	_
+7	бригадному	бригадный	A	A	Afpmsdf	8	опред	_	_
+8	участку	участок	N	N	Ncmsdn	5	предл	_	_
+9	:	:	-	-	-	8	PUNC	_	_
+10	пшеницы	пшеница	N	N	Ncfsgn	8	квазиагент	_	_
+11	.	.	S	S	SENT	10	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	центнеров	центнер	N	N	Ncmpgn	4	композ	_	_
+3	)	)	-	-	-	2	PUNC	_	_
+4	овса	овес	N	N	Ncmsgn	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	центнеров	центнер	N	N	Ncmpgn	4	композ	_	_
+3	)	)	-	-	-	2	PUNC	_	_
+4	картофеля	картофель	N	N	Ncmsgn	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	центнеров	центнер	N	N	Ncmpgn	4	композ	_	_
+3	)	)	-	-	-	2	PUNC	_	_
+4	льна	лен	N	N	Ncmsgn	0	ROOT	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	центнеров	центнер	N	N	Ncmpgn	0	ROOT	_	_
+3	)	)	-	-	-	2	PUNC	_	_
+4	и	и	C	C	C	2	сочин	_	_
+5	т	то	P	P	P--nsdn	4	соч-союзн	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Организовать	организовать	V	V	Vmn----a-p	0	ROOT	_	_
+2	производство	производство	N	N	Ncnsan	1	1-компл	_	_
+3	чистосортных	чистосортный	A	A	Afpmpgf	4	опред	_	_
+4	семян	семя	N	N	Ncnpgn	2	1-компл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	пшеницы	пшеница	N	N	Ncfsgn	4	сочин	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	овса	овес	N	N	Ncmsgn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	и	и	C	C	C	2	огранич	_	_
+2	т	то	P	P	P--nsdn	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Вывести	вывести	V	V	Vmn----a-p	0	ROOT	_	_
+2	навоз	навоз	N	N	Ncmsan	1	1-компл	_	_
+3	под	под	S	S	Sp-a	1	обст	_	_
+4	следующие	следующий	A	A	Afpmpaf	5	опред	_	_
+5	культуры	культура	N	N	Ncfpan	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	указать	указать	V	V	Vmn----a-p	0	ROOT	_	_
+3	под	под	S	S	Sp-a	2	1-компл	_	_
+4	какие	какой	P	P	P---paa	5	опред	_	_
+5	культуры	культура	N	N	Ncfpan	3	предл	_	_
+6	и	и	C	C	C	2	сочин	_	_
+7	сколько	сколько	P	P	P-----r	6	соч-союзн	_	_
+8	)	)	-	-	-	7	PUNC	_	_
+9	.	.	S	S	SENT	7	PUNC	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Внести	внести	V	V	Vmn----a-p	0	ROOT	_	_
+2	минеральных	минеральный	A	A	Afpmpgf	3	опред	_	_
+3	удобрений	удобрение	N	N	Ncnpgn	1	1-компл	_	_
+4	под	под	S	S	Sp-a	1	2-компл	_	_
+5	следующие	следующий	A	A	Afpmpaf	6	опред	_	_
+6	культуры	культура	N	N	Ncfpan	4	предл	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Провести	провести	V	V	Vmn----a-p	0	ROOT	_	_
+2	борьбу	борьба	N	N	Ncfsan	1	1-компл	_	_
+3	с	с	S	S	Sp-i	2	1-компл	_	_
+4	сорняками	сорняк	N	N	Ncmpin	3	предл	_	_
+5	на	на	S	S	Sp-l	4	атриб	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	3	вспом	_	_
+2	(	(	-	-	-	1	PUNC	_	_
+3	полка	полка	N	N	Ncfsnn	0	ROOT	_	_
+4	,	,	,	,	,	3	PUNC	_	_
+5	сжигание	сжигание	N	N	Ncnsnn	3	сочин	_	_
+6	сорняков	сорняк	N	N	Ncmpgn	5	1-компл	_	_
+7	,	,	,	,	,	6	PUNC	_	_
+8	лущение	лущение	N	N	Ncnsnn	5	сочин	_	_
+9	стерни	стерня	N	N	Ncfsgn	8	1-компл	_	_
+10	)	)	-	-	-	9	PUNC	_	_
+11	.	.	S	S	SENT	9	PUNC	_	_
+
+1	6	6	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Для	для	S	S	Sp-g	0	ROOT	_	_
+2	колхозов	колхоз	N	N	Ncmpgn	1	предл	_	_
+3	,	,	,	,	,	2	PUNC	_	_
+4	имеющих	иметь	V	V	Vmpp-p-afeg	2	опред	_	_
+5	специализированное	специализировать	V	V	Vmps-snpfen	6	опред	_	_
+6	направление	направление	N	N	Ncnsnn	4	1-компл	_	_
+7	:	:	-	-	-	6	PUNC	_	_
+8	льняное	льняной	A	A	Afpnsnf	6	оп-опред	_	_
+9	,	,	,	,	,	8	PUNC	_	_
+10	плодоовощное	плодоовощный	A	A	Afpnsnf	8	сочин	_	_
+11	,	,	,	,	,	10	PUNC	_	_
+12	хлопковое	хлопковый	A	A	Afpnsnf	10	сочин	_	_
+13	,	,	,	,	,	12	PUNC	_	_
+14	свекловичное	свекловичный	A	A	Afpnsnf	12	сочин	_	_
+15	,	,	,	,	,	14	PUNC	_	_
+16	табачное	табачный	A	A	Afpnsnf	14	сочин	_	_
+17	и	и	C	C	C	16	сочин	_	_
+18	т	то	P	P	P--nsdn	17	соч-союзн	_	_
+19	.	.	S	S	SENT	18	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	в	в	S	S	Sp-a	8	обст	_	_
+2	план	план	N	N	Ncmsan	1	предл	_	_
+3	мероприятий	мероприятие	N	N	Ncnpgn	2	1-компл	_	_
+4	по	по	S	S	Sp-d	3	1-компл	_	_
+5	повышению	повышение	N	N	Ncnsdn	4	предл	_	_
+6	урожайности	урожайность	N	N	Ncfsgn	5	1-компл	_	_
+7	обязательно	обязательно	R	R	R	8	обст	_	_
+8	включить	включить	V	V	Vmn----a-p	0	ROOT	_	_
+9	мероприятия	мероприятие	N	N	Ncnpan	8	1-компл	_	_
+10	по	по	S	S	Sp-d	9	1-компл	_	_
+11	повышению	повышение	N	N	Ncnsdn	10	предл	_	_
+12	урожайности	урожайность	N	N	Ncfsgn	11	1-компл	_	_
+13	и	и	C	C	C	11	сочин	_	_
+14	обработке	обработка	N	N	Ncfsdn	13	соч-союзн	_	_
+15	этих	этот	P	P	P---pga	17	опред	_	_
+16	специальных	специальный	A	A	Afpmpgf	17	опред	_	_
+17	культур	культура	N	N	Ncfpgn	14	1-компл	_	_
+18	примерно	примерно	R	R	R	19	огранич	_	_
+19	по	по	S	S	Sp-d	8	2-компл	_	_
+20	следующей	следующий	A	A	Afpfsdf	21	опред	_	_
+21	форме	форма	N	N	Ncfsdn	19	предл	_	_
+22	:	:	-	-	-	21	PUNC	_	_
+23	а	а	C	C	C	19	сочин	_	_
+24	)	)	-	-	-	23	PUNC	_	_
+25	по	по	S	S	Sp-d	23	соч-союзн	_	_
+26	садоводству	садоводство	N	N	Ncnsdn	25	предл	_	_
+27	--	--	-	-	-	26	аппоз	_	_
+28	весенняя	весенний	A	A	Afpfsnf	31	опред	_	_
+29	и	и	C	C	C	28	сочин	_	_
+30	осенняя	осенний	A	A	Afpfsnf	29	соч-союзн	_	_
+31	посадка	посадка	N	N	Ncfsnn	25	предик	_	_
+32	,	,	,	,	,	31	PUNC	_	_
+33	заготовка	заготовка	N	N	Ncfsnn	31	разъяснит	_	_
+34	посадочного	посадочный	A	A	Afpmsgf	35	опред	_	_
+35	материала	материал	N	N	Ncmsgn	33	1-компл	_	_
+36	,	,	,	,	,	35	PUNC	_	_
+37	уход	уход	N	N	Ncmsnn	33	сочин	_	_
+38	за	за	S	S	Sp-i	37	1-компл	_	_
+39	садами	сад	N	N	Ncmpin	38	предл	_	_
+40	и	и	C	C	C	39	сочин	_	_
+41	ягодами	ягода	N	N	Ncfpin	40	соч-союзн	_	_
+42	;	;	-	-	-	41	PUNC	_	_
+43	б	б	-	-	-	41	примыкат	_	_
+44	)	)	-	-	-	43	PUNC	_	_
+45	по	по	S	S	Sp-d	37	атриб	_	_
+46	льну	льн	N	N	Ncmsdn	45	предл	_	_
+47	--	--	-	-	-	46	аппоз	_	_
+48	выбор	выбор	N	N	Ncmsnn	37	сочин	_	_
+49	лучших	лучший	A	A	Afpmpgf	50	опред	_	_
+50	предшественников	предшественник	N	N	Ncmpgy	48	1-компл	_	_
+51	,	,	,	,	,	50	PUNC	_	_
+52	прополка	прополка	N	N	Ncfsnn	48	сочин	_	_
+53	,	,	,	,	,	52	PUNC	_	_
+54	теребление	теребление	N	N	Ncnsnn	52	сочин	_	_
+55	и	и	C	C	C	54	сочин	_	_
+56	первичная	первичный	A	A	Afpfsnf	57	опред	_	_
+57	обработка	обработка	N	N	Ncfsnn	55	соч-союзн	_	_
+58	,	,	,	,	,	57	PUNC	_	_
+59	расстил	расстить	V	V	Vmis-sma-p	8	сочин	_	_
+60	,	,	,	,	,	59	PUNC	_	_
+61	мочка	мочка	N	N	Ncfsnn	59	сочин	_	_
+62	,	,	,	,	,	61	PUNC	_	_
+63	получение	получение	N	N	Ncnsan	61	сочин	_	_
+64	тресты	трест	N	N	Ncmpan	63	1-компл	_	_
+65	,	,	,	,	,	64	PUNC	_	_
+66	трепка	трепка	N	N	Ncfsnn	64	ном-аппоз	_	_
+67	;	;	-	-	-	66	PUNC	_	_
+68	в	в	S	S	Sp-l	66	примыкат	_	_
+69	)	)	-	-	-	68	PUNC	_	_
+70	по	по	S	S	Sp-n	68	предл	_	_
+71	табаку	табак	N	N	Ncmsnnp	70	предл	_	_
+72	--	--	-	-	-	71	аппоз	_	_
+73	выгонка	выгонка	N	N	Ncfsnn	66	сочин	_	_
+74	рассады	рассада	N	N	Ncfsgn	73	сочин	_	_
+75	,	,	,	,	,	74	PUNC	_	_
+76	пасынкование	пасынкование	N	N	Ncnsnn	74	сочин	_	_
+77	и	и	C	C	C	76	сочин	_	_
+78	вершкование	вершкование	N	N	Ncnsnn	77	соч-союзн	_	_
+79	,	,	,	,	,	78	PUNC	_	_
+80	ломка	ломка	N	N	Ncfsnn	78	сочин	_	_
+81	,	,	,	,	,	80	PUNC	_	_
+82	нанизка	нанизка	N	N	Ncfsnn	80	сочин	_	_
+83	и	и	C	C	C	82	сочин	_	_
+84	сушка	сушка	N	N	Ncfsnn	83	соч-союзн	_	_
+85	;	;	-	-	-	84	PUNC	_	_
+86	г	год	N	N	Ncmsnn	84	примыкат	_	_
+87	)	)	-	-	-	86	PUNC	_	_
+88	по	по	S	S	Sp-d	82	атриб	_	_
+89	свекле	свекла	N	N	Ncfsdn	88	предл	_	_
+90	--	--	-	-	-	89	аппоз	_	_
+91	посев	посев	N	N	Ncmsan	82	сочин	_	_
+92	по	по	S	S	Sp-l	91	1-компл	_	_
+93	глубокой	глубокий	A	A	Afpfslf	94	опред	_	_
+94	пахоте	пахот	N	N	Ncmsln	92	предл	_	_
+95	,	,	,	,	,	94	PUNC	_	_
+96	удобрение	удобрение	N	N	Ncnsnn	91	сочин	_	_
+97	,	,	,	,	,	96	PUNC	_	_
+98	проведение	проведение	N	N	Ncnsnn	96	сочин	_	_
+99	шаровки	шаровка	N	N	Ncfsgn	98	1-компл	_	_
+100	,	,	,	,	,	99	PUNC	_	_
+101	прорывка	прорывка	N	N	Ncfsnn	99	сочин	_	_
+102	,	,	,	,	,	101	PUNC	_	_
+103	проверка	проверка	N	N	Ncfsnn	101	сочин	_	_
+104	,	,	,	,	,	103	PUNC	_	_
+105	борьба	борьба	N	N	Ncfsnn	103	сочин	_	_
+106	с	с	S	S	Sp-i	105	1-компл	_	_
+107	вредителями	вредитель	N	N	Ncmpiy	106	предл	_	_
+108	,	,	,	,	,	107	PUNC	_	_
+109	своевременное	своевременный	A	A	Afpnsaf	110	опред	_	_
+110	проведение	проведение	N	N	Ncnsan	105	сочин	_	_
+111	копки	копка	N	N	Ncfsgn	110	1-компл	_	_
+112	,	,	,	,	,	111	PUNC	_	_
+113	очистки	очистка	N	N	Ncfsgn	111	сочин	_	_
+114	и	и	C	C	C	113	сочин	_	_
+115	возки	возка	N	N	Ncfsgn	114	соч-союзн	_	_
+116	;	;	-	-	-	115	PUNC	_	_
+117	д	далее	R	R	R	115	примыкат	_	_
+118	)	)	-	-	-	117	PUNC	_	_
+119	по	по	S	S	Sp-a	113	2-компл	_	_
+120	хлопку	хлопка	N	N	Ncfsan	119	предл	_	_
+121	--	--	-	-	-	120	аппоз	_	_
+122	удобрения	удобрение	N	N	Ncnpnn	120	сочин	_	_
+123	,	,	,	,	,	122	PUNC	_	_
+124	своевременное	своевременный	A	A	Afpnsaf	125	опред	_	_
+125	проведение	проведение	N	N	Ncnsan	122	сочин	_	_
+126	поливов	полив	N	N	Ncmpgn	125	1-компл	_	_
+127	,	,	,	,	,	126	PUNC	_	_
+128	проведение	проведение	N	N	Ncnsnn	125	сочин	_	_
+129	работ	работа	N	N	Ncfpgn	128	1-компл	_	_
+130	по	по	S	S	Sp-d	129	1-компл	_	_
+131	мотыжению	мотыжение	N	N	Ncnsdn	130	предл	_	_
+132	,	,	,	,	,	131	PUNC	_	_
+133	окучивание	окучивание	N	N	Ncnsnn	131	сочин	_	_
+134	и	и	C	C	C	133	сочин	_	_
+135	прополка	прополка	N	N	Ncfsnn	134	соч-союзн	_	_
+136	,	,	,	,	,	135	PUNC	_	_
+137	своевременное	своевременный	A	A	Afpnsaf	138	опред	_	_
+138	проведение	проведение	N	N	Ncnsan	133	1-компл	_	_
+139	сбора	сбор	N	N	Ncmsgn	138	1-компл	_	_
+140	и	и	C	C	C	139	сочин	_	_
+141	сдачи	сдача	N	N	Ncfsgn	140	соч-союзн	_	_
+142	хлопка	хлопок	N	N	Ncmsgn	141	1-компл	_	_
+143	.	.	S	S	SENT	142	PUNC	_	_
+
+1	VIII	viii	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Размещение	размещение	N	N	Ncnsnn	0	ROOT	_	_
+2	посевов	посев	N	N	Ncmpgn	1	1-компл	_	_
+3	1934	1934	M	M	Mc---d	4	опред	_	_
+4	г	год	N	N	Ncmsgn	2	атриб	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	и	и	C	C	C	2	огранич	_	_
+2	улучшение	улучшение	N	N	Ncnsnn	0	ROOT	_	_
+3	земель	земля	N	N	Ncfpgn	2	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Закрепить	закрепить	V	V	Vmn----a-p	0	ROOT	_	_
+2	участки	участок	N	N	Ncmpan	1	1-компл	_	_
+3	за	за	S	S	Sp-i	2	атриб	_	_
+4	бригадами	бригада	N	N	Ncfpin	3	предл	_	_
+5	в	в	S	S	Sp-l	0	ROOT	_	_
+6	полях	поле	N	N	Ncnpln	5	предл	_	_
+7	севоооборота	севоооборот	N	N	Ncmsgn	6	квазиагент	_	_
+8	:	:	-	-	-	7	PUNC	_	_
+9	первой	первый	M	M	Mofsl	10	опред	_	_
+10	бригаде	бригада	N	N	Ncfsln	6	сочин	_	_
+11	.	.	S	S	SENT	10	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	участок	участок	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	второй	второй	M	M	Momsn	3	опред	_	_
+3	бригаде	бригада	N	N	Ncfsdn	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	участок	участок	N	N	Ncmsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	2	2	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Раскорчевать	раскорчевать	V	V	Vmn----a-p	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	3	3	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Расчистить	расчистить	V	V	Vmn----a-p	0	ROOT	_	_
+2	кустарников	кустарник	N	N	Ncmpgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	4	4	M	M	Mc---d	1	нум-аппоз	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Вспахать	вспахать	N	N	Ncmsnn	0	ROOT	_	_
+2	целины	целина	N	N	Ncfsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	га	га	-	-	-	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	IX	ix	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Развитие	развитие	N	N	Ncnsnn	0	ROOT	_	_
+2	животноводства	животноводство	N	N	Ncnsgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	Поголовье	поголовье	N	N	Ncnsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Покрыть	покрыть	V	V	Vmn----a-p	0	ROOT	_	_
+2	маток	матка	N	N	Ncfpay	1	1-компл	_	_
+3	в	в	S	S	Sp-l	2	атриб	_	_
+4	1934	1934	M	M	Mc---d	5	опред	_	_
+5	г	год	N	N	Ncmsnnl	3	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	,	,	,	,	,	5	огранич	_	_
+2	из	из	S	S	Sp-g	5	атриб	_	_
+3	них	они	P	P	P-3-pgn	2	предл	_	_
+4	:	:	-	-	-	3	PUNC	_	_
+5	лошадей	лошадь	N	N	Ncfpay	0	ROOT	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	коров	корова	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	свиней	свинья	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	овец	овца	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Получить	получить	V	V	Vmn----a-p	0	ROOT	_	_
+2	приплод	приплод	N	N	Ncmsan	1	1-компл	_	_
+3	:	:	-	-	-	2	PUNC	_	_
+4	телят	теленок	N	N	Ncmpgy	2	аппоз	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	поросят	поросенок	N	N	Ncmpay	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	ягнят	ягнят	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Вырастить	вырастить	V	V	Vmn----a-p	0	ROOT	_	_
+2	из	из	S	S	Sp-g	1	1-компл	_	_
+3	молодняка	молодняк	N	N	Ncmsgn	2	предл	_	_
+4	взрослого	взрослый	A	A	Afpmsgf	5	опред	_	_
+5	скота	скот	N	N	Ncmsgn	3	квазиагент	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Купить	купить	V	V	Vmn----a-p	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Продать	продать	V	V	Vmn----a-p	0	ROOT	_	_
+2	обобществленного	обобществленный	A	A	Afpmsgf	3	опред	_	_
+3	молодняка	молодняк	N	N	Ncmsgn	1	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	Довести	довести	V	V	Vmn----a-p	0	ROOT	_	_
+2	поголовье	поголовье	N	N	Ncnsan	1	1-компл	_	_
+3	обобществленного	обобществленный	A	A	Afpnsgf	4	опред	_	_
+4	стада	стадо	N	N	Ncnsgn	2	1-компл	_	_
+5	на	на	S	S	Sp-l	1	2-компл	_	_
+6	1	1	M	M	Mc---d	5	предл	_	_
+7	января	январь	N	N	Ncmsgn	6	атриб	_	_
+8	1935	1935	M	M	Mc---d	9	опред	_	_
+9	г	год	N	N	Ncmsgn	7	атриб	_	_
+10	.	.	S	S	SENT	9	PUNC	_	_
+
+1	до	до	S	S	Sp-g	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	голов	голова	N	N	Ncfpgn	6	вводн	_	_
+2	,	,	,	,	,	1	PUNC	_	_
+3	из	из	S	S	Sp-g	6	атриб	_	_
+4	них	они	P	P	P-3-pgn	3	предл	_	_
+5	:	:	-	-	-	4	PUNC	_	_
+6	лошадей	лошадь	N	N	Ncfpay	0	ROOT	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	коров	корова	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	волов	вол	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	свиней	свинья	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	овец	овца	N	N	Ncfpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	кроликов	кролик	N	N	Ncmpay	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	птицы	птица	N	N	Ncfpny	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	7	7	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Выделить	выделить	V	V	Vmn----a-p	2	предик	_	_
+2	телок	телок	N	N	Ncmsny	0	ROOT	_	_
+3	колхозникам	колхозник	N	N	Ncmpdy	2	аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	поросят	поросенок	N	N	Ncmpay	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	8	8	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Покрыть	покрыть	V	V	Vmn----a-p	0	ROOT	_	_
+2	маток	матка	N	N	Ncfpay	1	1-компл	_	_
+3	колхозников	колхозник	N	N	Ncmpgy	2	квазиагент	_	_
+4	производителями	производитель	N	N	Ncmpiy	2	сочин	_	_
+5	колхоза	колхоз	N	N	Ncmsgn	4	1-компл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	Качественные	качественный	A	A	Afpmpnf	2	опред	_	_
+2	показатели	показатель	N	N	Ncmpnn	0	ROOT	_	_
+3	животноводства	животноводство	N	N	Ncnsgn	2	1-компл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Добиться	добиться	V	V	Vmn----m-p	0	ROOT	_	_
+2	средне-годового	средне-годового	A	A	Afpmsgf	3	опред	_	_
+3	удоя	удой	N	N	Ncmsgn	1	1-компл	_	_
+4	в	в	S	S	Sp-l	1	2-компл	_	_
+5	размере	размер	N	N	Ncmsln	4	предл	_	_
+6	.	.	S	S	SENT	5	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	литров	литр	N	N	Ncmpgn	0	ROOT	_	_
+2	молока	молоко	N	N	Ncnsgn	1	квазиагент	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Добиться	добиться	V	V	Vmn----m-p	0	ROOT	_	_
+2	повышения	повышение	N	N	Ncnsgn	1	1-компл	_	_
+3	живого	живой	A	A	Afpmsgf	4	опред	_	_
+4	веса	вес	N	N	Ncmsgn	2	1-компл	_	_
+5	откормочного	откормочный	A	A	Afpmsgf	6	опред	_	_
+6	скота	скот	N	N	Ncmsgn	4	квазиагент	_	_
+7	на	на	S	S	Sp-l	2	атриб	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	клгр	клгр	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	,	,	,	,	,	0	ROOT	_	_
+2	доведя	довести	V	V	Vmgs---a-p	0	ROOT	_	_
+3	вес	вес	N	N	Ncmsan	2	1-компл	_	_
+4	одной	один	P	P	P--fsga	5	количест	_	_
+5	головы	голова	N	N	Ncfsgn	3	квазиагент	_	_
+6	(	(	-	-	-	5	PUNC	_	_
+7	рогатого	рогатый	A	A	Afpmsgf	8	опред	_	_
+8	скота	скот	N	N	Ncmsgn	5	квазиагент	_	_
+9	,	,	,	,	,	8	PUNC	_	_
+10	свиньи	свинья	N	N	Ncfpny	5	сочин	_	_
+11	и	и	C	C	C	2	сочин	_	_
+12	т	то	P	P	P--nsdn	11	соч-союзн	_	_
+13	.	.	S	S	SENT	12	PUNC	_	_
+
+1	д	далее	R	R	R	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	)	)	-	-	-	0	ROOT	_	_
+2	до	до	S	S	Sp-g	0	ROOT	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	клгр	клгр	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Добиться	добиться	V	V	Vmn----m-p	0	ROOT	_	_
+2	прироста	прирост	N	N	Ncmsgn	1	1-компл	_	_
+3	живого	живой	A	A	Afpmsgf	4	опред	_	_
+4	веса	вес	N	N	Ncmsgn	2	квазиагент	_	_
+5	молодняка	молодняк	N	N	Ncmsgn	4	квазиагент	_	_
+6	на	на	S	S	Sp-l	5	атриб	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	клгр	клгр	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Добиться	добиться	V	V	Vmn----m-p	2	предик	_	_
+2	настрига	настрига	N	N	Ncfsnn	0	ROOT	_	_
+3	шерсти	шерсть	N	N	Ncfsgn	2	квазиагент	_	_
+4	до	до	S	S	Sp-g	2	атриб	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	клгр	клгр	N	N	Ncfsnn	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	на	на	S	S	Sp-a	0	ROOT	_	_
+2	одну	один	P	P	P--fsaa	3	количест	_	_
+3	голову	голова	N	N	Ncfsan	1	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Обеспечение	обеспечение	N	N	Ncnsnn	0	ROOT	_	_
+2	кормами	корм	N	N	Ncmpin	1	2-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Закрепить	закрепить	V	V	Vmn----a-p	0	ROOT	_	_
+2	на	на	S	S	Sp-a	1	3-компл	_	_
+3	весенний	весенний	A	A	Afpmsaf	2	предл	_	_
+4	сев	сесть	V	V	Vmgs---a-p	0	ROOT	_	_
+5	корма	корм	N	N	Ncmpan	4	1-компл	_	_
+6	для	для	S	S	Sp-g	5	атриб	_	_
+7	рабочего	рабочий	A	A	Afpmsgf	8	опред	_	_
+8	скота	скот	N	N	Ncmsgn	6	предл	_	_
+9	.	.	S	S	SENT	8	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Накосить	накосить	V	V	Vmn----a-p	0	ROOT	_	_
+2	сена	сено	N	N	Ncnsgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	3	3	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Засилосовать	засилосовать	V	V	Vmn----a-p	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	4	4	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Заготовить	заготовить	V	V	Vmn----a-p	0	ROOT	_	_
+2	корнеплодов	корнеплод	N	N	Ncmpgn	1	1-компл	_	_
+3	.	.	S	S	SENT	2	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	5	5	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Оставить	оставить	V	V	Vmn----a-p	0	ROOT	_	_
+2	для	для	S	S	Sp-g	1	2-компл	_	_
+3	скота	скот	N	N	Ncmsgn	2	предл	_	_
+4	соломы	солома	N	N	Ncfsgn	3	1-компл	_	_
+5	и	и	C	C	C	4	сочин	_	_
+6	половы	полова	N	N	Ncfsgn	5	соч-союзн	_	_
+7	.	.	S	S	SENT	6	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	X.	x.	S	S	SENT	0	ROOT	_	_
+
+1	Работа	работа	N	N	Ncfsnn	0	ROOT	_	_
+2	кустарных	кустарный	A	A	Afpmpgf	3	опред	_	_
+3	предприятий	предприятие	N	N	Ncnpgn	1	квазиагент	_	_
+4	колхоза	колхоз	N	N	Ncmsgn	3	1-компл	_	_
+5	.	.	S	S	SENT	4	PUNC	_	_
+
+1	1	1	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Произвести	произвести	V	V	Vmn----a-p	0	ROOT	_	_
+2	продукции	продукция	N	N	Ncfsgn	1	1-компл	_	_
+3	кустарных	кустарный	A	A	Afpmpgf	4	опред	_	_
+4	промыслов	промысел	N	N	Ncmpgn	2	квазиагент	_	_
+5	по	по	S	S	Sp-d	4	атриб	_	_
+6	каждому	каждый	P	P	P--msda	7	опред	_	_
+7	промыслу	промысл	N	N	Ncmsdn	5	предл	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Выделить	выделить	V	V	Vmn----a-p	0	ROOT	_	_
+2	для	для	S	S	Sp-g	1	обст	_	_
+3	работы	работа	N	N	Ncfsgn	2	предл	_	_
+4	в	в	S	S	Sp-l	3	атриб	_	_
+5	кустарных	кустарный	A	A	Afpmplf	6	опред	_	_
+6	промыслах	промысел	N	N	Ncmpln	4	предл	_	_
+7	колхоза	колхоз	N	N	Ncmsgn	6	квазиагент	_	_
+8	.	.	S	S	SENT	7	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	колхозников	колхозник	N	N	Ncmpgy	0	ROOT	_	_
+2	по	по	S	S	Sp-d	1	атриб	_	_
+3	сезонам	сезон	N	N	Ncmpdn	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	XI	xi	M	M	Mo---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Строительство	строительство	N	N	Ncnsnn	0	ROOT	_	_
+2	колхозов	колхоз	N	N	Ncmpgn	1	1-компл	_	_
+3	1	1	M	M	Mc---d	2	нум-аппоз	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	Построить	построить	V	V	Vmn----a-p	4	1-компл	_	_
+2	...	...	M	M	Mc---d	1	1-компл	_	_
+3	(	(	-	-	-	2	PUNC	_	_
+4	назвать	назвать	V	V	Vmn----a-p	0	ROOT	_	_
+5	виды	вид	N	N	Ncmpan	4	2-компл	_	_
+6	строительства	строительство	N	N	Ncnsgn	5	квазиагент	_	_
+7	)	)	-	-	-	6	PUNC	_	_
+8	в	в	S	S	Sp-l	5	атриб	_	_
+9	.	.	S	S	SENT	8	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	(	(	-	-	-	0	ROOT	_	_
+2	указать	указать	V	V	Vmn----a-p	0	ROOT	_	_
+3	срок	срок	N	N	Ncmsan	2	1-компл	_	_
+4	)	)	-	-	-	3	PUNC	_	_
+5	.	.	S	S	SENT	3	PUNC	_	_
+
+1	2	2	M	M	Mc---d	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
+1	Выделить	выделить	V	V	Vmn----a-p	0	ROOT	_	_
+2	на	на	S	S	Sp-a	1	4-компл	_	_
+3	строительство	строительство	N	N	Ncnsan	2	предл	_	_
+4	.	.	S	S	SENT	3	PUNC	_	_
+
+1	.	.	S	S	SENT	0	ROOT	_	_
+
+1	колхозников	колхозник	N	N	Ncmpgy	0	ROOT	_	_
+2	.	.	S	S	SENT	1	PUNC	_	_
+
