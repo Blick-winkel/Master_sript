@@ -56,19 +56,20 @@ def xhtml(path):
         verbs_context[verb] = nearwords
 
 
-    for verb2 in same_constr:
+    for verb2 in verbs_constr:
         verbss = []
         for verb3 in same_constr[verb2]:
             point = 0
             cont = []
             if verb2 != verb3:
+                print verb2,verb3
                 for context in verbs_context[verb2]:
                     for context2 in verbs_context[verb3]:
-                        print verb2,verb3
+
                         if context == context2 and context not in cont:
                             point += 1
                             cont.append(context)
-                            if point == 5 and verb3 not in verbss:
+                            if point == 4 and verb3 not in verbss:
                                 f1.write(verb2+';'+verb3+';'+ u'Да;'+ str(point) +u'\r\n')
                                 verbss.append(verb3)
     f1.close()
@@ -76,7 +77,7 @@ def xhtml(path):
 
 
 def apresjan(file):
-    global verbs_constr
+    global verbs_constr, same_constr
     k = 0
     f1 = codecs.open(file,'r','utf-8-sig')
     verbs3 = []
@@ -100,8 +101,10 @@ def apresjan(file):
                 for constr1 in verbs_constr[i]:
                     for constr2 in verbs_constr[ii]:
                         if constr1 == constr2 and ii not in same:
+                            print ii
                             same.append(ii)
-        same_constr[i] = same
+        if i not  in same_constr:
+            same_constr[i] = same
 
     f1.close()
 
