@@ -62,7 +62,6 @@ def xhtml(path):
             point = 0
             cont = []
             if verb2 != verb3:
-                print verb2,verb3
                 for context in verbs_context[verb2]:
                     for context2 in verbs_context[verb3]:
 
@@ -101,7 +100,7 @@ def apresjan(file):
                 for constr1 in verbs_constr[i]:
                     for constr2 in verbs_constr[ii]:
                         if constr1 == constr2 and ii not in same:
-                            print ii
+                            
                             same.append(ii)
         if i not  in same_constr:
             same_constr[i] = same
